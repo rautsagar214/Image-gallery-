@@ -1,0 +1,17 @@
+.container{
+    background-color: skyblue;
+    display:grid;
+    grid-template-columns: 200px 200px 200px ;
+    grid-template-rows: 200px 200px 200px;
+    justify-content: center;
+}
+.grid1{
+    background-color: lightcoral;
+    /* height: 500px; */
+    /* width: 500px; */
+    border: 2px solid black;
+}
+.h1{
+    justify-content: center;
+}
+
